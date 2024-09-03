@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "66d705bed899b3c2b9a64d71"
+  },
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "nick": "juanito",
+  "email": "juan.perez@example.com",
+  "telefono": [
+    "1234567890",
+    "0987654321"
+  ],
+  "Rol": [
+    "Cliente"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d705bed899b3c2b9a64d72"
+  },
+  "nombre": "María",
+  "apellido": "García",
+  "nick": "mariag",
+  "email": "maria.garcia@example.com",
+  "telefono": [
+    "1231231234"
+  ],
+  "Rol": [
+    "Cliente"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d705bed899b3c2b9a64d73"
+  },
+  "nombre": "Carlos",
+  "apellido": "Lopez",
+  "nick": "carlito",
+  "email": "carlos.lopez@example.com",
+  "telefono": [
+    "3213213210"
+  ],
+  "Rol": [
+    "Cliente"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d705bed899b3c2b9a64d74"
+  },
+  "nombre": "Ana",
+  "apellido": "Martínez",
+  "nick": "anam",
+  "email": "ana.martinez@example.com",
+  "telefono": [
+    "4564564567"
+  ],
+  "Rol": [
+    "Cliente"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d705bed899b3c2b9a64d75"
+  },
+  "nombre": "Luis",
+  "apellido": "Fernández",
+  "nick": "luisf",
+  "email": "luis.fernandez@example.com",
+  "telefono": [
+    "6546546543"
+  ],
+  "Rol": [
+    "proveedor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d705bed899b3c2b9a64d76"
+  },
+  "nombre": "Isabel",
+  "apellido": "Rodríguez",
+  "nick": "isabelr",
+  "email": "isabel.rodriguez@example.com",
+  "telefono": [
+    "7897897890"
+  ],
+  "Rol": [
+    "proveedor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d705bed899b3c2b9a64d77"
+  },
+  "nombre": "william",
+  "apellido": "andres",
+  "nick": "",
+  "email": "jair.hernandez@example.com",
+  "telefono": [
+    "9879879820"
+  ],
+  "Rol": [
+    "admin"
+  ]
+}]
