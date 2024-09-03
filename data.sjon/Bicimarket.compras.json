@@ -1,0 +1,58 @@
+[{
+  "_id": 1,
+  "clienteId": "C001",
+  "total": 100,
+  "fechaCompra": {
+    "$date": "2023-01-01T10:00:00.000Z"
+  },
+  "productos": [
+    "Producto A",
+    "Producto B"
+  ]
+},
+{
+  "_id": 2,
+  "clienteId": "C002",
+  "total": 200,
+  "fechaCompra": {
+    "$date": "2023-02-01T11:00:00.000Z"
+  },
+  "productos": [
+    "Producto C"
+  ]
+},
+{
+  "_id": 3,
+  "clienteId": "C001",
+  "total": 150,
+  "fechaCompra": {
+    "$date": "2023-03-01T12:00:00.000Z"
+  },
+  "productos": [
+    "Producto A",
+    "Producto D"
+  ]
+},
+{
+  "_id": 4,
+  "clienteId": "C003",
+  "total": 250,
+  "fechaCompra": {
+    "$date": "2023-04-01T13:00:00.000Z"
+  },
+  "productos": [
+    "Producto E",
+    "Producto F"
+  ]
+},
+{
+  "_id": 5,
+  "clienteId": "C002",
+  "total": 300,
+  "fechaCompra": {
+    "$date": "2023-05-01T14:00:00.000Z"
+  },
+  "productos": [
+    "Producto G"
+  ]
+}]

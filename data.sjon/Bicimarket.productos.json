@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66d7166fd899b3c2b9a64d78"
+  },
+  "nombre": "Bicicleta de Montaña",
+  "variacion": "Ruedas 29 pulgadas",
+  "categoria": "BICICLETAS",
+  "descripcion": "Ideal para terrenos difíciles y montañosos"
+},
+{
+  "_id": {
+    "$oid": "66d7166fd899b3c2b9a64d79"
+  },
+  "nombre": "Bicicleta de Carretera",
+  "variacion": "Ruedas 700C",
+  "categoria": "BICICLETAS",
+  "descripcion": "Perfecta para largas distancias en carretera"
+},
+{
+  "_id": {
+    "$oid": "66d7166fd899b3c2b9a64d7a"
+  },
+  "nombre": "Casco de Bicicleta",
+  "variacion": "Talla M",
+  "categoria": "ACCESORIOS",
+  "descripcion": "Casco ligero y resistente para mayor seguridad"
+},
+{
+  "_id": {
+    "$oid": "66d7166fd899b3c2b9a64d7b"
+  },
+  "nombre": "Guantes de Ciclismo",
+  "variacion": "Talla L",
+  "categoria": "ACCESORIOS",
+  "descripcion": "Guantes con acolchado para mayor comodidad"
+},
+{
+  "_id": {
+    "$oid": "66d7166fd899b3c2b9a64d7c"
+  },
+  "nombre": "Luz Delantera",
+  "variacion": "LED",
+  "categoria": "ACCESORIOS",
+  "descripcion": "Luz delantera LED para mayor visibilidad nocturna"
+}]
